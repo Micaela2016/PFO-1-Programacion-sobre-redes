@@ -1,4 +1,6 @@
 # PFO-1-Programacion-sobre-redes
+# Alumna: Micaela Orellano Comision D
+
 # Chat Cliente-Servidor con Sockets y SQLite
 
 Este proyecto forma parte de la Propuesta Formativa Obligatoria (PFO-1) y tiene como objetivo implementar un sistema de comunicación básico entre un cliente y un servidor utilizando sockets en Python. Los mensajes enviados por los clientes se almacenan en una base de datos SQLite, y el servidor responde con una confirmación que incluye la marca de tiempo.
